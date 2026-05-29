@@ -1,29 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Fajar&fontAlign=50&fontAlignY=40&color=gradient" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e3a8a&text=&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=fadeIn" />
 </p>
 
-# Hi, I'm Fajar 👋
+<h1 align="center">Hi, I'm Fajar 👋</h1>
 
-**Information Systems Graduate | Data Enthusiast | Problem Solver**
+<p align="center">
+  Information Systems Graduate
+</p>
 
-Welcome to my digital portfolio! I use this space not just to store code, but to document my journey in solving real-world problems. My focus lies at the intersection of analytical research, predictive modeling, and system development. 
+<p align="center">
+  I use GitHub to share projects, coursework, and things I'm currently learning.
+</p>
 
-I believe that technology and data are only as good as the insights and solutions they provide.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1800&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate;Exploring+Technology%2C+Data%2C+and+Digital+Innovation;Documenting+Projects+and+Continuous+Learning" />
+</p>
 
-### 🎯 What I Do
-* **Data Analysis & Business Intelligence:** Turning complex datasets into clear, visual, and actionable insights.
-* **Predictive Modeling:** Building models to forecast trends and evaluate risks using structured methodologies.
-* **System Development:** Designing intuitive, user-centric applications from backend architecture to frontend interfaces.
+### About Me
+- Interested in technology and digital systems
+- Enjoy structured, practical work
+- Currently exploring new tools and ideas
 
-### 🌱 Current Focus
-* Exploring advanced data modeling and time-series analysis.
-* Applying standard industry frameworks (like CRISP-DM) to structural research and decision-support systems.
-* Continuously learning how to bridge the gap between technical algorithms and practical business needs.
+### Projects
+- Academic work
+- Personal experiments
+- Small practical projects
 
-### 📬 Let's Connect
-I'm always open to discussing data research, innovative system architecture, or potential collaborations!
-* ✉️ **Email:** [Your Email Address]
-* 💼 **LinkedIn:** [Your LinkedIn Profile]
-
----
-*Thanks for visiting my profile!*
+### Connect
+- LinkedIn: https://www.linkedin.com/in/muhamad-fajar-suprapto/
+- Email: muhamadfajjars@gmail.com

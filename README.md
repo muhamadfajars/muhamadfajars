@@ -17,14 +17,15 @@
 </p>
 
 ### About Me
-- Interested in technology and digital systems
-- Enjoy structured, practical work
-- Currently exploring new tools and ideas
+
+Information Systems Graduate with an interest in technology and digital innovation.
+
+This GitHub is where I document projects, share knowledge, and track my continuous learning journey.
 
 ### Projects
 - Academic work
 - Personal experiments
-- Small practical projects
+- Technology explorations
 
 ### Connect
 - LinkedIn: https://www.linkedin.com/in/muhamad-fajar-suprapto/
